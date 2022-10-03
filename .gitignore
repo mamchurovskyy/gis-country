@@ -1,0 +1,4 @@
+.env
+venv/
+ukr/
+.ipynb_checkpoints/
